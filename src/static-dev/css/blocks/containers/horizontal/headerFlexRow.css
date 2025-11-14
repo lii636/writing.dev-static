@@ -1,0 +1,17 @@
+.headerFlexRow{
+    display: flex;
+    gap: 15px;
+    justify-content: end;
+    color: white;
+    margin-bottom: 50px;
+}
+
+
+.headerFlexRow__item__h2{
+    font-weight: lighter;
+}
+
+.headerFlexRow> *:first-child{
+    margin-right: auto;
+    font-weight: 0;
+}

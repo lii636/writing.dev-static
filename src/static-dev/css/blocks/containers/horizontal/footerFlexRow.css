@@ -1,0 +1,21 @@
+.footerFlexRow{
+    margin-top: 50px;
+    display: flex;
+    justify-items: end;
+}
+
+.footerFlexRow__item{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+}
+
+
+.footerFlexRow__item__img{
+    width: 60px;
+    height: 50px;
+}
+
+.footerFlexRow> *:first-child{
+    margin-right: auto;
+}

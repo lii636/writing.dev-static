@@ -1,0 +1,27 @@
+.headerFlexRow-Listing {
+    display: flex;
+    gap: 50px;
+    /*border-top:solid;*/
+    /*border-top-color: #2B2F35;*/
+}
+
+.headerFlexRow-Listing__item{
+    margin-top: 25px;
+    display: flex;
+    gap: 10px;
+}
+
+.headerFlexRow-Listing__item__p{
+    color: #909090;
+    font-family: "Recursive", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 23px;
+}
+
+
+
+.headerFlexRow-Listing__item__img{
+    height: 24px;
+    width: 24px;
+}

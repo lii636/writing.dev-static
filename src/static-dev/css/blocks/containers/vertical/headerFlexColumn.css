@@ -1,0 +1,36 @@
+.headerFlexColumn{
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+}
+
+
+
+
+.headerFlexColumn__item__h1{
+    font-family: "Recursive", sans-serif;
+    font-style: italic;
+    font-size: 71px;
+    font-weight: normal;
+    color: #FF7575;
+    margin-bottom: 0;
+
+}
+
+
+.headerFlexColumn__item__h2{
+    font-weight: normal;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-size: 29px;
+}
+
+
+
+
+.headerFlexColumn__item__img{
+    height: 194px;
+    width: 204px;
+}
+

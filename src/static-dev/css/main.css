@@ -1,0 +1,19 @@
+@import url(fonts.css);
+@import url(blocks/containers/horizontal/headerFlexRow.css);
+@import url(blocks/containers/horizontal/footerFlexRow.css);
+@import url(blocks/containers/horizontal/headerFlexRow-Listing.css);
+@import url(blocks/containers/vertical/headerFlexColumn.css);
+
+@import url(blocks/containers/multidimensional/mainGrid.css);
+
+
+header{
+    margin-bottom: 30px;
+}
+
+body{
+    background: #232830;
+    margin-left: 400px;
+    margin-right: 450px;
+
+}
